@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MHHqcKJBq/hTpKo7PXdduLnnBgycWwfvXi3NxvzpIgYZdXe7GdZ+dJEohjKBWvCNcycG36e/m3UcLvEdwmbDiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bmircetic\\nelnet-projects\\NumberManipulator\\numbermanipulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bmircetic\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
